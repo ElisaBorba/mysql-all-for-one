@@ -1,10 +1,5 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# 🛢️ Projeto - MySQL all for one
+Esse projeto uma oportunidade para aplicar os conhecimentos adquiridos no primeiro bloco de SQL. Durante este projeto, fui desafiado a utilizar os principais comandos e conceitos iniciais do MySQL para resolver uma série de problemas e exercícios propostos. Todo o projeto foi desenvolvido utilizando o banco de dados `Northwind`.
+
+## 💻 Tecnologia Utilizada
+* SQL - Desenvolvi queries eficientes para resolver cada desafio, explorando os recursos do banco de dados MySQL.
